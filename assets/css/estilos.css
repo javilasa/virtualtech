@@ -1,0 +1,51 @@
+body h1 {
+  font-size: 4.25rem;
+  font-weight: 700;
+  line-height: 1;
+  margin: 17px 0 0;
+  font-family: Oswald, sans-serif !important;
+  color: #b75097;
+}
+
+body section,
+body footer {
+  padding: 30px 0px;
+}
+
+.u-text.u-text-2 {
+  font-style: italic;
+  line-height: 1.8;
+  padding: 20px 20px 0 0;
+}
+
+.u-text.u-text-3 {
+  line-height: 1.8;
+  padding: 20px 20px 0 0;
+}
+
+.u-text.freepic-text,
+.u-text.freepic-text a {
+  color: #d8d8d8;
+  font-size: 11px;
+}
+
+.u-button {
+  text-decoration: none;
+  background-color: #b75097;
+  color: #e6e6e6;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  border-style: none;
+  font-weight: 700;
+  padding: 14px 41px 14px 40px;
+  display: inline-block;
+}
+
+.u-button:hover {
+  background-color: #e6e6e6;
+  color: #b75097;
+}
+
+.u-image-circle img{
+  border: 12px solid #ebc280;
+}
